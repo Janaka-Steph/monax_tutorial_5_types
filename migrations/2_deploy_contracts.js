@@ -21,7 +21,6 @@ module.exports = function (deployer) {
         .then(() => Doug.at(Doug.address).addContract('bankdb', BankDb.address))
       deployer.deploy(FundManager)
         .then(() => Doug.at(Doug.address).addContract('fm', FundManager.address))
-        .then(() => Doug.at(Doug.address).addContract('bank', Bank.address))
       deployer.deploy(Permissions)
         .then(() => Doug.at(Doug.address).addContract('perms', Permissions.address))
       deployer.deploy(PermissionsDb)

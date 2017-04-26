@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4625e1d-13a2-4237-9012-e45f02fc8f00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/Bank.json" afterPath="$PROJECT_DIR$/build/contracts/Bank.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/BankDb.json" afterPath="$PROJECT_DIR$/build/contracts/BankDb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/ContractProvider.json" afterPath="$PROJECT_DIR$/build/contracts/ContractProvider.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/Doug.json" afterPath="$PROJECT_DIR$/build/contracts/Doug.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/DougEnabled.json" afterPath="$PROJECT_DIR$/build/contracts/DougEnabled.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/FundManager.json" afterPath="$PROJECT_DIR$/build/contracts/FundManager.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/FundManagerEnabled.json" afterPath="$PROJECT_DIR$/build/contracts/FundManagerEnabled.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/Migrations.json" afterPath="$PROJECT_DIR$/build/contracts/Migrations.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/Permissions.json" afterPath="$PROJECT_DIR$/build/contracts/Permissions.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/contracts/PermissionsDb.json" afterPath="$PROJECT_DIR$/build/contracts/PermissionsDb.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -335,12 +324,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493195123910</updated>
-      <workItem from="1493195125978" duration="4386000" />
+      <workItem from="1493195125978" duration="4448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4386000" />
+    <option name="totallyTimeSpent" value="4448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />

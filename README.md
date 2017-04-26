@@ -1,6 +1,6 @@
 # monax_tutorial_5_types
 
-## testrpc
+testrpc
 
 truffle compile
 truffle migrate

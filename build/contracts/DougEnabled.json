@@ -1,0 +1,41 @@
+{
+  "contract_name": "DougEnabled",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "dougAddr",
+          "type": "address"
+        }
+      ],
+      "name": "setDougAddress",
+      "outputs": [
+        {
+          "name": "result",
+          "type": "bool"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "remove",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    }
+  ],
+  "unlinked_binary": "0x606060405234610000575b61011a806100196000396000f300606060405263ffffffff60e060020a60003504166380e2653e8114602c578063a7f43779146056575b6000565b346000576042600160a060020a03600435166062565b604080519115158252519081900360200190f35b34600057606060c7565b005b60008054600160a060020a031615801590608b575060005433600160a060020a03908116911614155b1560965750600060c2565b506000805473ffffffffffffffffffffffffffffffffffffffff1916600160a060020a03831617905560015b919050565b60005433600160a060020a039081169116141560eb57600054600160a060020a0316ff5b5b5600a165627a7a723058201f859f86eeb1e4e611648286441d36cc7dfb265c6496bff1331db9efb3813ceb0029",
+  "networks": {
+    "1493198987076": {
+      "links": {},
+      "events": {},
+      "updated_at": 1493199196341
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1493199196341
+}
